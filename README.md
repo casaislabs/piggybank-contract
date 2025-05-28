@@ -14,7 +14,7 @@ The deployed contract on Sepolia testnet can be found at the following address:
 
 The source code for the PiggyBank smart contract can be found on GitHub:
 
-[GitHub - PiggyBank Contract](https://github.com/martinperezcss/piggybank-contract)
+[GitHub - PiggyBank Contract](https://github.com/casaislabs/piggybank-contract)
 
 ---
 
@@ -53,7 +53,7 @@ To successfully interact with this project, ensure that the following dependenci
 
 1. **Clone the repository**:  
      ```bash
-     git clone https://github.com/martinperezcss/piggybank-contract.git
+     git clone https://github.com/casaislabs/piggybank-contract.git
      cd piggybank-contract
      ```
 
